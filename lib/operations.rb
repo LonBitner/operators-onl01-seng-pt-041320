@@ -9,8 +9,3 @@ end
 
 puts unsafe(50)
 
-def not_safe?(speed)
-  speed >60 || speed <40 ? true : false
-end
-	
-result = value_to_check ? "its true!" : "it's false"
