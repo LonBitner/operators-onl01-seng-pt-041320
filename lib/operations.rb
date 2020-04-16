@@ -7,5 +7,4 @@ def unsafe?(speed)
   
 end
 
-puts unsafe(50)
 
