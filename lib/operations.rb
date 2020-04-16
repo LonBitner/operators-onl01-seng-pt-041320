@@ -14,5 +14,3 @@ def not_safe?(speed)
 end
 	
 result = value_to_check ? "its true!" : "it's false"
-
-puts result
