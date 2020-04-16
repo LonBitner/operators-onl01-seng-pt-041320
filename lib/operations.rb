@@ -10,5 +10,5 @@ end
 puts unsafe?(50)
 
 def not_safe?(speed)
- spped >60 || soeed <40 ? true : false 
+ speed >60 || speed <40 ? true : false 
 end
